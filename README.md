@@ -17,11 +17,9 @@ Turn any block of text — an article, your notes, or a full script — into a n
 
 ## Preview
 
-| Empty State | Generated Podcast |
-|---|---|
-| Clean input screen ready for text | Narrated audio with playback & download |
-
+**EMPTY STATE**
 <img width="1919" height="894" alt="Screenshot 2026-07-20 002223" src="https://github.com/user-attachments/assets/b0dea956-c7cd-45ad-84c2-cf95f8ebdef2" />
+**GENERATED PODCAST**
 <img width="1875" height="798" alt="Screenshot 2026-07-20 002442" src="https://github.com/user-attachments/assets/331e414b-3b8e-49bc-b32a-6db601fc9b67" />
 
 ---
@@ -48,7 +46,7 @@ Turn any block of text — an article, your notes, or a full script — into a n
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Python 3.10+**
 - **[Ollama](https://ollama.com/download)** installed and running locally
@@ -60,7 +58,7 @@ Turn any block of text — an article, your notes, or a full script — into a n
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -107,7 +105,7 @@ Generated audio files are stored in `ai-podcaster/audios/` and are automatically
 
 ---
 
-## 🌍 Supported Languages & Voices
+## Supported Languages & Voices
 
 | Language | Voice Code |
 |---|---|
@@ -144,7 +142,7 @@ ai-podcaster/
 
 ---
 
-## 🩹 Troubleshooting
+## Troubleshooting
 
 | Issue | Possible Fix |
 |---|---|
@@ -154,7 +152,7 @@ ai-podcaster/
 
 ---
 
-## 🗺️ Roadmap Ideas
+## Roadmap Ideas
 
 - [ ] Support for multi-speaker/dialogue-style podcasts
 - [ ] Export to MP3 in addition to WAV
@@ -163,15 +161,10 @@ ai-podcaster/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-## 🙌 Acknowledgments
-
-- [Kokoro TTS](https://github.com/hexgrad/kokoro) for high-quality open-source speech synthesis
-- [Ollama](https://ollama.com/) for accessible local LLM inference
 - [LangChain](https://www.langchain.com/) for LLM orchestration
 - [Streamlit](https://streamlit.io/) for rapid, elegant UI development
