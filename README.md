@@ -18,8 +18,11 @@ Turn any block of text — an article, your notes, or a full script — into a n
 ## Preview
 
 **EMPTY STATE**
+
 <img width="1919" height="894" alt="Screenshot 2026-07-20 002223" src="https://github.com/user-attachments/assets/b0dea956-c7cd-45ad-84c2-cf95f8ebdef2" />
+
 **GENERATED PODCAST**
+
 <img width="1875" height="798" alt="Screenshot 2026-07-20 002442" src="https://github.com/user-attachments/assets/331e414b-3b8e-49bc-b32a-6db601fc9b67" />
 
 ---
