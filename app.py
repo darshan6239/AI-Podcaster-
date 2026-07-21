@@ -232,7 +232,7 @@ def equalizer(label: str):
     )
 
 
-# ---------- header ----------
+#  header 
 st.markdown(
     """
     <div class="hero">
