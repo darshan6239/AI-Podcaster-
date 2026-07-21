@@ -243,7 +243,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# ---------- sidebar settings ----------
+# sidebar settings 
 with st.sidebar:
     st.markdown("### ⚙️ Settings")
     language = st.selectbox("Language", list(SUPPORTED_LANGUAGES.keys()), index=0)
