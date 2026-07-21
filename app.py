@@ -77,7 +77,7 @@ def cleanup_previous_file():
             os.remove(path)
 
 
-# ---------- styling ----------
+# styling 
 st.markdown(
     """
     <style>
