@@ -245,7 +245,6 @@ with st.sidebar:
     should_summarize = st.toggle("Summarize before narrating", value=False)
     st.caption("Summarization runs the text through a local LLM before narration.")
 
-#  main input 
 text = st.text_area("What should your podcast say?", height=180, placeholder="Paste an article, notes, or a script...")
 char_count = len(text)
 st.caption(f"{char_count} characters")
