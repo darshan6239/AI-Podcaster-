@@ -229,8 +229,6 @@ def equalizer(label: str):
         unsafe_allow_html=True,
     )
 
-
-#  header 
 st.markdown(
     """
     <div class="hero">
