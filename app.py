@@ -34,7 +34,6 @@ Text: {text}
 st.set_page_config(page_title="AI Podcaster", page_icon="🎙️", layout="centered")
 
 
-# ---------- cached resources ----------
 @st.cache_resource(show_spinner=False)
 def get_pipeline(lang_code: str) -> KPipeline:
     return KPipeline(lang_code=lang_code)
